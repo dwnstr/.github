@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Dawnstar is a Game Development and FiveM Development community.
+
+Find our GTA5/FiveM Non-ELS Vehicle Documentation here: 
+https://doc.clickup.com/8521189/d/841f5-35/non-els-research
+
 <!--
 
 **Here are some ideas to get you started:**
